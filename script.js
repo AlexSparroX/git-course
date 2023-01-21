@@ -1,3 +1,3 @@
 alert ( 'Hello JS!' );
 
-console.log ( 'Hello Yuliana!' );
+console.log ( 'Hello Yuliana!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!' );
